@@ -2,17 +2,17 @@
 
 # 💫About Me :
 
-Name: Hồng Quốc Bình
-Date of birth: 18/12/2000
-Gender: male
-Phone: 0707941835
-Email: hongquocbinh1812@gmail.com
-Address: Ho Chi Minh, Vietnam
+Name: Hồng Quốc Bình <br/>
+Date of birth: 18/12/2000 <br/>
+Gender: male <br/>
+Phone: 0707941835 <br/>
+Email: hongquocbinh1812@gmail.com <br/>
+Address: Ho Chi Minh, Vietnam <br/>
 
-Something else about me:
-+Open and friendly.
-+Love to learn new things, especially things related to Frontend stacks.
-+Enjoy working with ReactJS 
+Something else about me: <br/>
++Open and friendly. <br/>
++Love to learn new things, especially things related to Frontend stacks. <br/>
++Enjoy working with ReactJS <br/>
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/cristi.binh/) 
